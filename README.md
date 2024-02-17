@@ -12,8 +12,8 @@
 - ## Skills
   - **Programming Languages:** JavaScript, Java
   - **Web Development:** HTML, CSS, React.js, Node.js
-  - **Database:** MongoDB, 
-  - **Tools & Technologies:** GitHub, VS Code,
+  - **Database:** MongoDB
+  - **Tools & Technologies:** GitHub, VS Code
 
 - ## Projects
   - ### Project 1: [Eccomerce Responsive Mern App] ( https://e-commerce-2nd.vercel.app/ )
