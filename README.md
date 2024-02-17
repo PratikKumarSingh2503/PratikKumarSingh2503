@@ -6,7 +6,7 @@
   - 🌱 I’m currently learning React.js and Node.js.
   - 👯 I’m looking to collaborate on open-source projects.
   - 💬 Ask me about web development, JavaScript, and Java.
-  - 📫 How to reach me: [My Email](mailto:pratikkumarsingh819@example.com)
+  - 📫 How to reach me: [Email](mailto:pratikkumarsingh819@example.com)
   - ⚡ **Personal Website:** [Portfolio](https://codsoft-06.vercel.app/)
 
 - ## Skills
