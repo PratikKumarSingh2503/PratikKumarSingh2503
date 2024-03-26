@@ -16,9 +16,9 @@
   - **Tools & Technologies:** GitHub, VS Code
 
 - ## Projects
-  - ### Project 1: [Eccomerce Responsive Mern App] ( https://e-commerce-2nd.vercel.app/ )
+  - ### Project 1: [Eccomerce Responsive Mern App]( https://e-commerce-2nd.vercel.app/ )
      Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....
-  - ### Project 2: [News Feed App ] ( https://news-feed-app-two.vercel.app/ )
+  - ### Project 2: [News Feed App ]( https://news-feed-app-two.vercel.app/ )
      Aggregate news articles from various sources to engage readers with authentic updated news.
  
 - ## Connect with Me
