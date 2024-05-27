@@ -12,10 +12,10 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pratik?label=Follow)](https://twitter.com/PratikSingh819)
 [![Linkedin: pratik](https://img.shields.io/badge/-pratik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/pratik-kumar-singh-aa6746221/)
 ![GitHub followers](https://img.shields.io/github/followers/PratikKumarSingh2503?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://codsoft-06.vercel.app/)]()
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://codsoft-06.vercel.app/)](https://codsoft-06.vercel.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=PratikKumarSingh2503.PratikKumarSingh2503)
 <!--- ![Waka Readme](https://github.com/PratikKumarSingh2503/PratikKumarSingh2503/workflows/Waka%20Readme/badge.svg) --->
 
@@ -50,10 +50,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mongo,git,vscode,x&perline=10"  />
 </p>
 
-  - **Programming Languages:** JavaScript, Java
-  - **Web Development:** HTML, CSS, React.js, Node.js
-  - **Database:** MongoDB
-  - **Tools & Technologies:** GitHub, VS Code
 
   - ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -94,12 +90,6 @@ const anmol = {
 <br />  -->
 
 
-<!--- - ## Skills
-  - **Programming Languages:** JavaScript, Java
-  - **Web Development:** HTML, CSS, React.js, Node.js
-  - **Database:** MongoDB
-  - **Tools & Technologies:** GitHub, VS Code    
-  ----->
 
 <!-----
 <!--Github stats Table--> 
