@@ -47,7 +47,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mongo,git,vscode,x&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,java,react,bootstrap,tailwind,nodejs,expressjs,mongo,mysql,vscode,git,vercel,x&perline=7"  />
 </p>
 
 
@@ -59,11 +59,16 @@ const pratik = {
     code: ["Javascript", "HTML", "CSS", "JAVA"],
     askMeAbout: ["web dev", "tech", "photography"],
     technologies: {
+        frontEnd: {
+            js: ["React"]
+            framework: ["Bootstrap", "Tailwind"]'
+        }, 
         backEnd: {
             js: ["Node", "Express"],
         },
-        databases: ["mongo", "MySql"],
-        misc: ["Vercel"]
+        databases: ["Mongo DB", "MySql"],
+        },
+        tools: ["VS Code", "Git", "Vercel"], 
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
@@ -133,11 +138,11 @@ const pratik = {
  
  <h2 align="center">🤝 Recent Projects 🤝 </h2>
  <div>
-    <h4> Project 1: <a href="https://e-commerce-2nd.vercel.app/">[Eccomerce Responsive Mern App]</a> </h4>
+    <h4>Project 1: <a href="https://e-commerce-2nd.vercel.app/">[Eccomerce Responsive Mern App]</a> </h4>
        <p>Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....</p>
-    <h4>Project 2: <a href="https://tour-travel-hub.vercel.app/">[Tour & Travel Hub ]</a> </h4>
+    <h4>Project 2: <a href="https://tour-travel-hub.vercel.app/">[Tour & Travel Hub]</a> </h4>
        <p>Aggregate news articles from various sources to engage readers with authentic updated news.</p>
-    <h4>Project 3: <a herf="https://carbon-footprint-tracker-ten.vercel.app/">[Carbon Footprint Tracker ]</a>< /h4>
+    <h4>Project 3: <a href="https://carbon-footprint-tracker-ten.vercel.app/">[Tour & Travel Hub]</a> </h4>
        <p>Aggregate news articles from various sources to engage readers with authentic updated news.</p>
    </div>
 <br />
