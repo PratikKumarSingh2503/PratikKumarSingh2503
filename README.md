@@ -131,14 +131,16 @@ const pratik = {
 <br />
 
  
-- ## Projects
-  - ### Project 1: [Eccomerce Responsive Mern App]( https://e-commerce-2nd.vercel.app/ )
-     Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....
-  - ### Project 2: [News Feed App ]( https://news-feed-app-two.vercel.app/ )
-     Aggregate news articles from various sources to engage readers with authentic updated news.
-
-
-
+ <h2 align="center">🤝 Recent Projects 🤝 </h2>
+ <div>
+    <h4> Project 1: <a href="https://e-commerce-2nd.vercel.app/">[Eccomerce Responsive Mern App]</a> </h4>
+       <p>Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....</p>
+    <h4>Project 2: <a href="https://tour-travel-hub.vercel.app/">[Tour & Travel Hub ]</a> </h4>
+       <p>Aggregate news articles from various sources to engage readers with authentic updated news.</p>
+    <h4>Project 3: <a herf="https://carbon-footprint-tracker-ten.vercel.app/">[Carbon Footprint Tracker ]</a>< /h4>
+       <p>Aggregate news articles from various sources to engage readers with authentic updated news.</p>
+   </div>
+<br />
 
  
 <!--   - ## Connect with Me
