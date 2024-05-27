@@ -1,4 +1,26 @@
-- # Hello, I'm [Pratik Kumar Singh] 👋
+<!--  Banner -->
+![search](https://github.com/PratikKumarSingh2503/PratikKumarSingh2503/assets/132550388/b8bd15d9-7e27-49b7-95f7-68cc4f3b2330)
+<br />
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<h2><img src="#" width="30"/> नमस्ते (Namaste), I'm <span style="font-size:10px;">Pratik Kumar Singh!</span> 👋 <img src="#" width="50"></h2>
+<p><em>Web Development Intern at <a href="https://www.levaze.com/">Levaze
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: pratik](https://img.shields.io/badge/-pratik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/pratik-kumar-singh-aa6746221/)
+![GitHub followers](https://img.shields.io/github/followers/PratikKumarSingh2503?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://codsoft-06.vercel.app/)]()
+![](https://visitor-badge.glitch.me/badge?page_id=PratikKumarSingh2503.PratikKumarSingh2503)
+<!--- ![Waka Readme](https://github.com/PratikKumarSingh2503/PratikKumarSingh2503/workflows/Waka%20Readme/badge.svg) --->
+
+
+
 - I'm a web developer passionate about creating innovative solutions to real-world problems.
 
   - 😄 Pronouns: He/Him
@@ -8,7 +30,17 @@
   - 💬 Ask me about web development, JavaScript, and Java.
   - 📫 How to reach me: [Email](mailto:pratikkumarsingh819@example.com)
   - ⚡ **Personal Website:** [Portfolio](https://codsoft-06.vercel.app/)
+ 
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PratikKumarSingh2503&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="PratikKumarSingh2503" style="padding-right:20px;" />
+</p>
 
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 ---
 <br />
 
@@ -22,7 +54,34 @@
   - **Web Development:** HTML, CSS, React.js, Node.js
   - **Database:** MongoDB
   - **Tools & Technologies:** GitHub, VS Code
+
+  - ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <br />
+
 
 
 <!--Trophies Section   
