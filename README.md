@@ -80,17 +80,6 @@ const pratik = {
 <br />
 
 
-
-<!--Trophies Section   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/PratikKumarSingh2503/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PratikKumarSingh2503&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>   -->
-<br />
-
-
 <h2 align="center">🤝 Recent Projects 🤝 </h2>
  <div>
     <h4>Project 1: <a href="https://e-commerce-2nd.vercel.app/">[Eccomerce Responsive Mern App]</a> </h4>
@@ -102,6 +91,22 @@ const pratik = {
    </div>
 <br />
 
+
+<!--Badges Earn-->
+<h2 align="center">📊 My Badges 📊</h2>
+![Database Programming with SQL](https://github.com/user-attachments/assets/a4067159-4e7a-4605-840c-50fced081d5f)
+![Java Explorer](https://github.com/user-attachments/assets/fe053515-7c34-472a-bf01-1b278ca69925)
+<br />
+
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/PratikKumarSingh2503/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PratikKumarSingh2503&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  </a>
+</p>   
+<br />
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
