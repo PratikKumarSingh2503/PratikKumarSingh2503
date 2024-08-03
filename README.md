@@ -84,9 +84,9 @@ const pratik = {
  <div>
     <h4>Project 1: <a href="https://e-commerce-2nd.vercel.app/">[Eccomerce Responsive Mern App]</a> </h4>
        <p>Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....</p>
-    <h4>Project 2: <a href="https://news-api-website-rose.vercel.app/">[News-Api-Website]</a> </h4>
+   <h4>Project 3: <a href="https://carbon-footprint-tracker-ten.vercel.app/">[Tour & Travel Hub]</a> </h4>
        <p>Aggregate news articles from various sources to engage readers with authentic updated news.</p>
-    <h4>Project 3: <a href="https://tour-travel-hub.vercel.app/">[Tour & Travel Hub]</a> </h4>
+    <h4>Project 2: <a href="https://tour-travel-hub.vercel.app/">[Tour & Travel Hub]</a> </h4>
        <p>Aggregate news articles from various sources to engage readers with authentic updated news.</p>
    </div>
 <br />
@@ -94,8 +94,12 @@ const pratik = {
 
 <!--Badges Earn-->
 <h2 align="center">📊 My Badges 📊</h2>
-![Database Programming with SQL](https://github.com/user-attachments/assets/a4067159-4e7a-4605-840c-50fced081d5f)
-![Java Explorer](https://github.com/user-attachments/assets/fe053515-7c34-472a-bf01-1b278ca69925)
+
+<!-- Display badges with the same size -->
+<div style="text-align: center;">
+<img src="https://github.com/user-attachments/assets/a4067159-4e7a-4605-840c-50fced081d5f" alt="Database Programming with SQL" style="width: 150px; height: 150px;" />
+<img src="https://github.com/user-attachments/assets/fe053515-7c34-472a-bf01-1b278ca69925" alt="Java Explorer" style="width: 350px; height: 150px;" />
+  </div>
 <br />
 
 
