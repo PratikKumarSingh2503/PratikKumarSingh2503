@@ -137,21 +137,21 @@ const pratik = {
 <h2 align="center">🤝 Latest Projects 🤝 </h2>
  <ul>
 	 <li>
-		 <a href="https://e-commerce-2nd.vercel.app/">[Eccomerce Responsive Mern App]</a> <br>
+		 <a href="https://e-commerce-2nd.vercel.app/">[ Eccomerce Responsive Mern App ]</a> <br>
 		 <i>Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....</i>
 	</li>
 	 <li>
-		 <a href="https://e-commerce-2nd.vercel.app/">[Eccomerce Responsive Mern App]</a> <br>
-		 <i>Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....</i>
+		 <a href="https://jarvis-sand-eight.vercel.app/">[ JARVIS ]</a> <br>
+		 <i>Jarvis: A sophisticated voice-activated virtual assistant designed to recognize and execute speech commands seamlessly.</i>
 	</li>
 	 <li>
-		 <a href="https://e-commerce-2nd.vercel.app/">[Eccomerce Responsive Mern App]</a> <br>
-		 <i>Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....</i>
+		 <a href="https://news-api-website-rose.vercel.app/">[ News Api Website ]</a> <br>
+		 <i>A dynamic news website that leverages APIs to provide real-time updates and comprehensive coverage of current events, keeping users informed with the latest news.</i>
 	</li>
-   <h4>Project 3: <a href="https://carbon-footprint-tracker-ten.vercel.app/">[Tour & Travel Hub]</a> </h4>
-       <p>Aggregate news articles from various sources to engage readers with authentic updated news.</p>
-    <h4>Project 2: <a href="https://tour-travel-hub.vercel.app/">[Tour & Travel Hub]</a> </h4>
-       <p>Aggregate news articles from various sources to engage readers with authentic updated news.</p>
+	 <li>
+		 <a href="https://tour-travel-hub.vercel.app/">[ Tour Travel Hub ]</a> <br>
+		 <i>A dynamic news website that leverages APIs to provide real-time updates and comprehensive coverage of current events, keeping users informed with the latest news.</i>
+	</li>
    </ul>
 <br />
 
