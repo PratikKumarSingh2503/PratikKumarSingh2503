@@ -95,6 +95,7 @@ const pratik = {
 <br />
 
 
+<!--     Comment Out  -->
 <!-- <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -133,37 +134,45 @@ const pratik = {
 <br /> -->
 
 
-<h2 align="center">🤝 Recent Projects 🤝 </h2>
- <div>
-    <h4>Project 1: <a href="https://e-commerce-2nd.vercel.app/">[Eccomerce Responsive Mern App]</a> </h4>
-       <p>Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....</p>
+<h2 align="center">🤝 Latest Projects 🤝 </h2>
+ <ul>
+	 <li>
+		 <a href="https://e-commerce-2nd.vercel.app/">[Eccomerce Responsive Mern App]</a> <br>
+		 <i>Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....</i>
+	</li>
+	 <li>
+		 <a href="https://e-commerce-2nd.vercel.app/">[Eccomerce Responsive Mern App]</a> <br>
+		 <i>Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....</i>
+	</li>
+	 <li>
+		 <a href="https://e-commerce-2nd.vercel.app/">[Eccomerce Responsive Mern App]</a> <br>
+		 <i>Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....</i>
+	</li>
    <h4>Project 3: <a href="https://carbon-footprint-tracker-ten.vercel.app/">[Tour & Travel Hub]</a> </h4>
        <p>Aggregate news articles from various sources to engage readers with authentic updated news.</p>
     <h4>Project 2: <a href="https://tour-travel-hub.vercel.app/">[Tour & Travel Hub]</a> </h4>
        <p>Aggregate news articles from various sources to engage readers with authentic updated news.</p>
-   </div>
+   </ul>
 <br />
 
 
-<!--Badges Earn-->
-<h2 align="center">📊 My Badges 📊</h2>
-
-<!-- Display badges with the same size -->
+<!--Badges Earn ( Comment Out )   -->
+<!-- <h2 align="center">📊 My Badges 📊</h2>
 <div style="text-align: center;">
 <img src="https://github.com/user-attachments/assets/a4067159-4e7a-4605-840c-50fced081d5f" alt="Database Programming with SQL" style="width: 150px; height: 150px;" />
 <img src="https://github.com/user-attachments/assets/fe053515-7c34-472a-bf01-1b278ca69925" alt="Java Explorer" style="width: 350px; height: 150px;" />
   </div>
-<br />
+<br />  -->
 
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/PratikKumarSingh2503/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=PratikKumarSingh2503&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>   
-<br />
+<br /> -->
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
