@@ -138,7 +138,8 @@ const pratik = {
  <ul>
 	 <li>
 		 <a href="https://e-commerce-2nd.vercel.app/">[ Eccomerce Responsive Mern App ]</a> <br>
-		 <i>Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ....</i>
+		 <i>A scalable e-commerce website that leverages React for an interactive UI, Tailwind CSS for responsive design, MongoDB for flexible data management, and Node.js for efficient backend 
+                    operations, delivering a modern and seamless shopping experience.</i>
 	</li>
 	 <li>
 		 <a href="https://jarvis-sand-eight.vercel.app/">[ JARVIS ]</a> <br>
