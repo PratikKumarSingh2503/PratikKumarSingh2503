@@ -178,6 +178,12 @@ const pratik = {
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
+<p align="center">
+<a href="http://www.github.com/PratikKumarSingh2503"><img src="https://github-readme-stats.vercel.app/api?username=PratikKumarSingh2503&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="PratikKumarSingh2503's GitHub stats" /></a>
+<a href="http://www.github.com/arifszn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikKumarSingh2503&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ </p>
+
+<!----
 <table width="100%">
   <tr>
     <td width="50%">
@@ -216,6 +222,7 @@ const pratik = {
     </td>
   </tr>
 </table>
+ ----->
 <br />
 
  
