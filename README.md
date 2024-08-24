@@ -83,7 +83,7 @@ const pratik = {
         },
         databases: ["Mongo DB", "MySql"],
         },
-        tools: ["VS Code", "Git", "Vercel"], 
+        tools: ["VS Code", "Github", "Vercel"], 
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
