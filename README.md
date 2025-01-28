@@ -1,6 +1,6 @@
-<!--  Banner -->
+<!--  Banner 
 ![search](https://github.com/PratikKumarSingh2503/PratikKumarSingh2503/assets/132550388/b8bd15d9-7e27-49b7-95f7-68cc4f3b2330)
-<br />
+<br /> -->
 
 <!--Night Owl image-->
 <div>
