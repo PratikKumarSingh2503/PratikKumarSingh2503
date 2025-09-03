@@ -8,14 +8,14 @@
 </div>
 
 <h2><img src="#" width="30"/> नमस्ते (Namaste), I'm <span style="font-size:10px;">Pratik Kumar Singh!</span> 👋 <img src="#" width="50"></h2>
-<p><em>Web Development Intern at <a href="https://www.levaze.com/">Levaze
+<p><em>Web Development Intern at <a href="https://infyspringboard.onwingspan.com/web/en/login">Infosys Springboard
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/pratik?label=Follow)](https://twitter.com/PratikSingh819)
 [![Linkedin: pratik](https://img.shields.io/badge/-pratik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/pratik-kumar-singh-aa6746221/)
 ![GitHub followers](https://img.shields.io/github/followers/PratikKumarSingh2503?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://pratik-portfolio-woad.vercel.app/)](https://pratik-portfolio-woad.vercel.app/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://pratik-portfolio-woad.vercel.app/)](https://pratik2505.vercel.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=PratikKumarSingh2503.PratikKumarSingh2503)
 <!--- ![Waka Readme](https://github.com/PratikKumarSingh2503/PratikKumarSingh2503/workflows/Waka%20Readme/badge.svg) --->
 
@@ -25,11 +25,11 @@
 
   - 😄 Pronouns: He/Him
   - 🔭 I’m currently working on improving my coding skills.
-  - 🌱 I’m currently learning Node.js and Express.js.
+  <!-- - 🌱 I’m currently learning Node.js and Express.js. -->
   - 👯 I’m looking to collaborate on open-source projects.
-  - 💬 Ask me about web development, JavaScript, and Java.
+  <!-- - 💬 Ask me about web development, JavaScript, and Java. -->
   - 📫 How to reach me: [Email](mailto:pratikkumarsingh819@example.com)
-  - ⚡ **Personal Website:** [Portfolio](https://pratik-portfolio-woad.vercel.app/)
+  - ⚡ **Personal Website:** [Portfolio](https://pratik2505.vercel.app/)
  
 <!--Profile Count Badge-->
 <p align="left">
