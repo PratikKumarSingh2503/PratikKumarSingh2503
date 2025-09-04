@@ -177,20 +177,25 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /> 
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 GitHub Overview 📊</h2>
 
 <p align="center">
-<a href="http://www.github.com/PratikKumarSingh2503"><img src="https://github-readme-stats.vercel.app/api?username=PratikKumarSingh2503&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="PratikKumarSingh2503's GitHub stats" /></a>
-<a href="http://www.github.com/arifszn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikKumarSingh2503&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-	<a href="http://www.github.com/PratikKumarSingh2503">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikKumarSingh2503&langs_count=8&layout=compact&title_color=3382ed&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+  <a href="http://www.github.com/PratikKumarSingh2503">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikKumarSingh2503&theme=github_dark" alt="GitHub Summary Card" width="800"/>
   </a>
-	<a align="center">
-  <img src="https://raw.githubusercontent.com/PratikKumarSingh2503/PratikKumarSingh2503/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</a>
+</p>
 
- </p>
+<p align="center">
+  <a href="http://www.github.com/PratikKumarSingh2503">
+    <img src="https://github-readme-stats.vercel.app/api?username=PratikKumarSingh2503&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="200"/>
+  </a>
+  <a href="http://www.github.com/PratikKumarSingh2503">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikKumarSingh2503&langs_count=8&layout=compact&title_color=3382ed&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top Languages" height="200"/>
+  </a>
+</p>
 
+
+<!-- <a href="http://www.github.com/PratikKumarSingh2503"><img src="https://github-readme-stats.vercel.app/api?username=PratikKumarSingh2503&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="PratikKumarSingh2503's GitHub stats" /></a> -->
 ---
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
