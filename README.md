@@ -39,11 +39,11 @@
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
 <a href="https://calendly.com/pratikkumarsingh819/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! 😊</em>
+
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-<br />
-<br />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
@@ -60,8 +60,10 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 </div>
 
-<!--     Comment Out  -->
-<!-- <h3>🚀 Open Source Projects</h3>
+---
+
+<!--   Open Source Projects   -->
+ <h3>🚀 Open Source Projects</h3>
 <table>
   <thead align="center">
     <tr>
@@ -109,7 +111,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   </tbody>
 </table>
 
-</br>
+---
 
 
 <h2 align="center">🤝 Latest Projects 🤝 </h2>
@@ -123,58 +125,56 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
     </tr>
   </thead>
   <tbody>
-	  <!-- CampusCLock -->
+	  <!-- StockSync -->
 	  <tr>
-      <td><b>Tour Travel Hub</b></td>
+      <td><a href="https://github.com/springboardmentor106/InventoryManagement_Infosys_Internship_Feb2025_Team_03"><b>StockSync (Inventory Management)</b></td>
       <td>A travel platform showcasing destinations, attractions, and activities, helping users plan and explore tours easily with a modern UI.</td>
-      <td><a href="https://tour-travel-hub.vercel.app/" target="_blank">🔗 Live</a></td>
+      <td><a href="https://tour-travel-hub.vercel.app/" target="_blank">🔗 Figma</a></td>
     </tr>
 	  <!-- EnigmaVault -->
     <tr>
-      <td><b>🛒 <a href="https://github.com/PratikKumarSingh2503/fanverse-ecommerce-mern-website"><b>EnigmaVault (E-commerce MERN)</b></a</b></td>
+      <td><a href="https://github.com/PratikKumarSingh2503/fanverse-ecommerce-mern-website"><b>EnigmaVault (E-commerce MERN)</b></a></td>
       <td>A scalable e-commerce website that leverages React for an interactive UI, Tailwind CSS for responsive design, MongoDB for flexible data management, and Node.js for efficient backend operations, delivering a modern and seamless shopping experience.</td>
-      <td><a href="https://e-commerce-2nd.vercel.app/" target="_blank">🔗 Live</a></td>
+      <td><a href="https://fanverse-ecommerce-mern-website.vercel.app/" target="_blank">🔗 Live</a></td>
     </tr>
-	  <!-- TaskNexus -->
+	  <!-- CampusClock -->
 	  <tr>
-      <td><b><a href="https://github.com/PratikKumarSingh2503/EY-GDS-NextGen-internship"></b></td>
+      <td><b><a href="https://github.com/PratikKumarSingh2503/CampusClock-frontend"><b>CampusClock</b></a></td>
       <td>A travel platform showcasing destinations, attractions, and activities, helping users plan and explore tours easily with a modern UI.</td>
-      <td><a href="https://tour-travel-hub.vercel.app/" target="_blank">🔗 Live</a></td>
+      <td><a href="https://campusclock-ams.vercel.app/" target="_blank">🔗 Live</a></td>
+    </tr>
+    <tr>
+		<!-- TaskNexus -->
+	  <tr>
+      <td><b><a href="https://github.com/PratikKumarSingh2503/EY-GDS-NextGen-internship">TaskNexus</b></a></td>
+      <td>A travel platform showcasing destinations, attractions, and activities, helping users plan and explore tours easily with a modern UI.</td>
+      <td><a href="https://tasknexus-three.vercel.app/" target="_blank">🔗 Live</a></td>
     </tr>
     <tr>
 	  <!-- News Api -->
-      <td><b>News API Website</b></td>
+      <td><b><a href="https://github.com/PratikKumarSingh2503/News-Api-Website">PulseNews</b></a></td>
       <td>A dynamic news website that leverages APIs to provide real-time updates and comprehensive coverage of current events, keeping users informed with the latest news.</td>
       <td><a href="https://news-api-website-rose.vercel.app/" target="_blank">🔗 Live</a></td>
-    </tr>
-	  <tr>
-      <td><b>JARVIS</b></td>
-      <td>A sophisticated voice-activated virtual assistant designed to recognize and execute speech commands seamlessly.</td>
-      <td><a href="https://jarvis-sand-eight.vercel.app/" target="_blank">🔗 Live</a></td>
     </tr>
   </tbody>
 </table>
 
-<br />
-
-
-<!--Badges Earn ( Comment Out )   -->
-<!-- <h2 align="center">📊 My Badges 📊</h2>
-<div style="text-align: center;">
-<img src="https://github.com/user-attachments/assets/a4067159-4e7a-4605-840c-50fced081d5f" alt="Database Programming with SQL" style="width: 150px; height: 150px;" />
-<img src="https://github.com/user-attachments/assets/fe053515-7c34-472a-bf01-1b278ca69925" alt="Java Explorer" style="width: 350px; height: 150px;" />
-  </div>
-<br />  -->
+---
 
 
 <!--Trophies Section-->   
-<!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/PratikKumarSingh2503/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PratikKumarSingh2503&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>   
-<br /> -->
+ <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs & Badges📊</h2>
+ <p align="center">
+  <a href="http://www.github.com/PratikKumarSingh2503">
+    <img src="https://github-profile-trophy.vercel.app/?username=PratikKumarSingh2503&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  </a> 
+
+  <div style="text-align: center;">
+<img src="https://github.com/user-attachments/assets/a4067159-4e7a-4605-840c-50fced081d5f" alt="Database Programming with SQL" style="width: 150px; height: 150px;" />
+<img src="https://github.com/user-attachments/assets/fe053515-7c34-472a-bf01-1b278ca69925" alt="Java Explorer" style="width: 350px; height: 150px;" />
+  </div>
+</p>
+<br /> 
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -182,56 +182,16 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <p align="center">
 <a href="http://www.github.com/PratikKumarSingh2503"><img src="https://github-readme-stats.vercel.app/api?username=PratikKumarSingh2503&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="PratikKumarSingh2503's GitHub stats" /></a>
 <a href="http://www.github.com/arifszn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikKumarSingh2503&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+	<a href="http://www.github.com/PratikKumarSingh2503">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikKumarSingh2503&langs_count=8&layout=compact&title_color=3382ed&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+  </a>
+	<a align="center">
+  <img src="https://raw.githubusercontent.com/PratikKumarSingh2503/PratikKumarSingh2503/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</a>
+
  </p>
 
-<!----
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/PratikKumarSingh2503">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratikKumarSingh2503&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/PratikKumarSingh2503">
-          <img align="center" src="https://streak-stats.demolab.com?user=PratikKumarSingh2503&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/PratikKumarSingh2503/Pratik-Portfolio">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=PratikKumarSingh2503&repo=Pratik-Portfolio&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/PratikKumarSingh2503">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=PratikKumarSingh2503&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
- ----->
-<br />
-
- 
-<!--   - ## Connect with Me
-  - [GitHub](https://github.com/PratikKumarSingh2503)
-  - [LinkedIn](https://www.linkedin.com/in/pratik-kumar-singh-aa6746221/)
-  - [Twitter](https://twitter.com/PratikSingh819)
--->
+---
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
