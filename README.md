@@ -8,8 +8,8 @@
 </div>
 
 <h2><img src="#" width="30"/> नमस्ते (Namaste), I'm <span style="font-size:10px;">Pratik Kumar Singh!</span> 👋 <img src="#" width="50"></h2>
-<p><em>Web Development Intern at <a href="https://infyspringboard.onwingspan.com/web/en/login">Infosys Springboard
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Web Development Intern at <a href="https://infyspringboard.onwingspan.com/web/en/login">Infosys Springboard</a>
+<span style="vertical-align:middle;"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/pratik?label=Follow)](https://twitter.com/PratikSingh819)
@@ -21,13 +21,11 @@
 
 
 
-- I'm a web developer passionate about creating innovative solutions to real-world problems.
+- I'm a developer passionate about creating innovative solutions to real-world problems.
 
-  - 😄 Pronouns: He/Him
+  - 🎯 Specializing in Full Stack Development
   - 🔭 I’m currently working on improving my coding skills.
-  <!-- - 🌱 I’m currently learning Node.js and Express.js. -->
   - 👯 I’m looking to collaborate on open-source projects.
-  <!-- - 💬 Ask me about web development, JavaScript, and Java. -->
   - 📫 How to reach me: [Email](mailto:pratikkumarsingh819@example.com)
   - ⚡ **Personal Website:** [Portfolio](https://pratik2505.vercel.app/)
  
@@ -42,64 +40,31 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="https://calendly.com/pratikkumarsingh819/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 ---
-<br />
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<!-- <img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,java,react,bootstrap,tailwind,nodejs,expressjs,mongo,mysql,vscode,git,vercel,x&perline=7"  /> -->
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <br>
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
-
-  - ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const pratik = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS", "JAVA"],
-    askMeAbout: ["web dev", "tech", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React"]
-            framework: ["Bootstrap", "Tailwind"]'
-        }, 
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        databases: ["Mongo DB", "MySql"],
-        },
-        tools: ["VS Code", "Github", "Vercel"], 
-    },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "Something like shortcuts doesnot exist in success"
-};
-```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <br />
+<br />
 
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
+
+<div align="center">
+	
+| Category       | Technologies |
+|----------------|-------------|
+| **🌐 Frontend**   | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **⚙️ Backend**    | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) |
+| **🗄️ Databases**  | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **💻 Languages**  | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) |
+| **🛠️ Tools**      | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+
+</div>
 
 <!--     Comment Out  -->
-<!-- <h3>Open source projects</h3>
+<!-- <h3>🚀 Open Source Projects</h3>
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
@@ -108,52 +73,88 @@ const pratik = {
     </tr>
   </thead>
   <tbody>
+    <!-- StockSync -->
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/springboardmentor106/InventoryManagement_Infosys_Internship_Feb2025_Team_03"><b>📦 StockSync (Inventory Management)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/springboardmentor106/InventoryManagement_Infosys_Internship_Feb2025_Team_03?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/springboardmentor106/InventoryManagement_Infosys_Internship_Feb2025_Team_03?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/springboardmentor106/InventoryManagement_Infosys_Internship_Feb2025_Team_03?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/springboardmentor106/InventoryManagement_Infosys_Internship_Feb2025_Team_03?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+    <!-- EnigmaVault -->
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/PratikKumarSingh2503/fanverse-ecommerce-mern-website"><b>🛒 EnigmaVault (E-commerce MERN)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/PratikKumarSingh2503/fanverse-ecommerce-mern-website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/PratikKumarSingh2503/fanverse-ecommerce-mern-website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/PratikKumarSingh2503/fanverse-ecommerce-mern-website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PratikKumarSingh2503/fanverse-ecommerce-mern-website?style=flat-square&labelColor=343b41"/
+	  </td>
+    </tr>
+    <!-- CampusClock -->
+    <tr>
+      <td><a href="https://github.com/PratikKumarSingh2503/CampusClock-frontend"><b>⏰ CampusClock</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/PratikKumarSingh2503/CampusClock-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/PratikKumarSingh2503/CampusClock-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/PratikKumarSingh2503/CampusClock-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PratikKumarSingh2503/CampusClock-frontend?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <!-- TaskNest -->
+    <tr>
+      <td><a href="https://github.com/PratikKumarSingh2503/EY-GDS-NextGen-internship"><b>✅ TaskNexus (Task Manager)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/PratikKumarSingh2503/EY-GDS-NextGen-internship?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/PratikKumarSingh2503/EY-GDS-NextGen-internship?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/PratikKumarSingh2503/EY-GDS-NextGen-internship?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PratikKumarSingh2503/EY-GDS-NextGen-internship?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
-<br /> -->
+
+</br>
 
 
 <h2 align="center">🤝 Latest Projects 🤝 </h2>
- <ul>
-	 <li>
-		 <a href="https://e-commerce-2nd.vercel.app/">[ Eccomerce Responsive Mern App ]</a> <br>
-		 <i>A scalable e-commerce website that leverages React for an interactive UI, Tailwind CSS for responsive design, MongoDB for flexible data management, and Node.js for efficient backend 
-                    operations, delivering a modern and seamless shopping experience.</i>
-	</li>
-	 <li>
-		 <a href="https://jarvis-sand-eight.vercel.app/">[ JARVIS ]</a> <br>
-		 <i>Jarvis: A sophisticated voice-activated virtual assistant designed to recognize and execute speech commands seamlessly.</i>
-	</li>
-	 <li>
-		 <a href="https://news-api-website-rose.vercel.app/">[ News Api Website ]</a> <br>
-		 <i>A dynamic news website that leverages APIs to provide real-time updates and comprehensive coverage of current events, keeping users informed with the latest news.</i>
-	</li>
-	 <li>
-		 <a href="https://tour-travel-hub.vercel.app/">[ Tour Travel Hub ]</a> <br>
-		 <i>A dynamic news website that leverages APIs to provide real-time updates and comprehensive coverage of current events, keeping users informed with the latest news.</i>
-	</li>
-   </ul>
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>📦 Project</b></td>
+      <td><b>📝 Description</b></td>
+      <td><b>🌐 Live Demo</b></td>
+    </tr>
+  </thead>
+  <tbody>
+	  <!-- CampusCLock -->
+	  <tr>
+      <td><b>Tour Travel Hub</b></td>
+      <td>A travel platform showcasing destinations, attractions, and activities, helping users plan and explore tours easily with a modern UI.</td>
+      <td><a href="https://tour-travel-hub.vercel.app/" target="_blank">🔗 Live</a></td>
+    </tr>
+	  <!-- EnigmaVault -->
+    <tr>
+      <td><b>🛒 <a href="https://github.com/PratikKumarSingh2503/fanverse-ecommerce-mern-website"><b>EnigmaVault (E-commerce MERN)</b></a</b></td>
+      <td>A scalable e-commerce website that leverages React for an interactive UI, Tailwind CSS for responsive design, MongoDB for flexible data management, and Node.js for efficient backend operations, delivering a modern and seamless shopping experience.</td>
+      <td><a href="https://e-commerce-2nd.vercel.app/" target="_blank">🔗 Live</a></td>
+    </tr>
+	  <!-- TaskNexus -->
+	  <tr>
+      <td><b><a href="https://github.com/PratikKumarSingh2503/EY-GDS-NextGen-internship"></b></td>
+      <td>A travel platform showcasing destinations, attractions, and activities, helping users plan and explore tours easily with a modern UI.</td>
+      <td><a href="https://tour-travel-hub.vercel.app/" target="_blank">🔗 Live</a></td>
+    </tr>
+    <tr>
+	  <!-- News Api -->
+      <td><b>News API Website</b></td>
+      <td>A dynamic news website that leverages APIs to provide real-time updates and comprehensive coverage of current events, keeping users informed with the latest news.</td>
+      <td><a href="https://news-api-website-rose.vercel.app/" target="_blank">🔗 Live</a></td>
+    </tr>
+	  <tr>
+      <td><b>JARVIS</b></td>
+      <td>A sophisticated voice-activated virtual assistant designed to recognize and execute speech commands seamlessly.</td>
+      <td><a href="https://jarvis-sand-eight.vercel.app/" target="_blank">🔗 Live</a></td>
+    </tr>
+  </tbody>
+</table>
+
 <br />
 
 
