@@ -24,8 +24,8 @@
 - I'm a developer passionate about creating innovative solutions to real-world problems.
 
   - 🎯 Specializing in Full Stack Development
-  - 🔭 I’m currently working on improving my coding skills.
-  - 👯 I’m looking to collaborate on open-source projects.
+  - 🔭 Currently working on improving my coding skills.
+  - 👯 Looking to collaborate on open-source projects.
   - 📫 How to reach me: [Email](mailto:pratikkumarsingh819@example.com)
   - ⚡ **Personal Website:** [Portfolio](https://pratik2505.vercel.app/)
  
@@ -40,7 +40,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="https://calendly.com/pratikkumarsingh819/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! 😊</em>
+<!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! 😊</em> -->
 
 ---
 
@@ -63,7 +63,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ---
 
 <!--   Open Source Projects   -->
- <h3>🚀 Open Source Projects</h3>
+<!--
+<h3>🚀 Open Source Projects</h3>
 <table>
   <thead align="center">
     <tr>
@@ -75,7 +76,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
     </tr>
   </thead>
   <tbody>
-    <!-- StockSync -->
     <tr>
       <td><a href="https://github.com/springboardmentor106/InventoryManagement_Infosys_Internship_Feb2025_Team_03"><b>📦 StockSync (Inventory Management)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/springboardmentor106/InventoryManagement_Infosys_Internship_Feb2025_Team_03?style=flat-square&labelColor=343b41"/></td>
@@ -83,7 +83,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
       <td><img alt="Issues" src="https://img.shields.io/github/issues/springboardmentor106/InventoryManagement_Infosys_Internship_Feb2025_Team_03?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/springboardmentor106/InventoryManagement_Infosys_Internship_Feb2025_Team_03?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <!-- EnigmaVault -->
     <tr>
       <td><a href="https://github.com/PratikKumarSingh2503/fanverse-ecommerce-mern-website"><b>🛒 EnigmaVault (E-commerce MERN)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/PratikKumarSingh2503/fanverse-ecommerce-mern-website?style=flat-square&labelColor=343b41"/></td>
@@ -92,7 +91,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PratikKumarSingh2503/fanverse-ecommerce-mern-website?style=flat-square&labelColor=343b41"/
 	  </td>
     </tr>
-    <!-- CampusClock -->
     <tr>
       <td><a href="https://github.com/PratikKumarSingh2503/CampusClock-frontend"><b>⏰ CampusClock</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/PratikKumarSingh2503/CampusClock-frontend?style=flat-square&labelColor=343b41"/></td>
@@ -100,7 +98,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
       <td><img alt="Issues" src="https://img.shields.io/github/issues/PratikKumarSingh2503/CampusClock-frontend?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PratikKumarSingh2503/CampusClock-frontend?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <!-- TaskNest -->
     <tr>
       <td><a href="https://github.com/PratikKumarSingh2503/EY-GDS-NextGen-internship"><b>✅ TaskNexus (Task Manager)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/PratikKumarSingh2503/EY-GDS-NextGen-internship?style=flat-square&labelColor=343b41"/></td>
@@ -109,10 +106,10 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PratikKumarSingh2503/EY-GDS-NextGen-internship?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table> 
 
 ---
-
+-->
 
 <h2 align="center">🤝 Latest Projects 🤝 </h2>
 
@@ -121,40 +118,40 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
     <tr>
       <td><b>📦 Project</b></td>
       <td><b>📝 Description</b></td>
-      <td><b>🌐 Live Demo</b></td>
+      <td><b>🔗 Demo</b></td>
     </tr>
   </thead>
   <tbody>
 	  <!-- StockSync -->
 	  <tr>
       <td><a href="https://github.com/springboardmentor106/InventoryManagement_Infosys_Internship_Feb2025_Team_03"><b>StockSync (Inventory Management)</b></td>
-      <td>A travel platform showcasing destinations, attractions, and activities, helping users plan and explore tours easily with a modern UI.</td>
-      <td><a href="https://tour-travel-hub.vercel.app/" target="_blank">🔗 Figma</a></td>
+      <td>StockSync is a comprehensive MERN stack-based inventory management system designed to streamline inventory tracking, supplier management, order processing, and sales monitoring for businesses of all sizes.</td>
+      <td><a href="https://www.figma.com/design/P4TEzJzdLGqjuXAUUvYJQK/Inventory-management?node-id=0-1&t=fDReEI7a2ScNm1Wx-1" target="_blank">🎨</a></td>
     </tr>
 	  <!-- EnigmaVault -->
     <tr>
       <td><a href="https://github.com/PratikKumarSingh2503/fanverse-ecommerce-mern-website"><b>EnigmaVault (E-commerce MERN)</b></a></td>
       <td>A scalable e-commerce website that leverages React for an interactive UI, Tailwind CSS for responsive design, MongoDB for flexible data management, and Node.js for efficient backend operations, delivering a modern and seamless shopping experience.</td>
-      <td><a href="https://fanverse-ecommerce-mern-website.vercel.app/" target="_blank">🔗 Live</a></td>
+      <td><a href="https://fanverse-ecommerce-mern-website.vercel.app/" target="_blank">🌐</a></td>
     </tr>
 	  <!-- CampusClock -->
 	  <tr>
-      <td><b><a href="https://github.com/PratikKumarSingh2503/CampusClock-frontend"><b>CampusClock</b></a></td>
-      <td>A travel platform showcasing destinations, attractions, and activities, helping users plan and explore tours easily with a modern UI.</td>
-      <td><a href="https://campusclock-ams.vercel.app/" target="_blank">🔗 Live</a></td>
+      <td><b><a href="https://github.com/PratikKumarSingh2503/CampusClock-frontend"><b>CampusClock (Attendance Tracker)</b></a></td>
+      <td>CampusClock is a smart attendance tracker designed to streamline student attendance management with accuracy and ease. It helps institutions save time, reduce manual errors, and maintain organized records efficiently.</td>
+      <td><a href="https://campusclock-ams.vercel.app/" target="_blank">🌐</a></td>
     </tr>
     <tr>
 		<!-- TaskNexus -->
 	  <tr>
-      <td><b><a href="https://github.com/PratikKumarSingh2503/EY-GDS-NextGen-internship">TaskNexus</b></a></td>
-      <td>A travel platform showcasing destinations, attractions, and activities, helping users plan and explore tours easily with a modern UI.</td>
-      <td><a href="https://tasknexus-three.vercel.app/" target="_blank">🔗 Live</a></td>
+      <td><b><a href="https://github.com/PratikKumarSingh2503/EY-GDS-NextGen-internship">TaskNexus (Project Management)</b></a></td>
+      <td>TaskNexus is a modern project management website built using the MERN stack, Context API, JWT, and TailwindCSS. With a sleek and intuitive interface, users can easily create, update, and delete their projects.</td>
+      <td><a href="https://tasknexus-three.vercel.app/" target="_blank">🌐</a></td>
     </tr>
     <tr>
 	  <!-- News Api -->
-      <td><b><a href="https://github.com/PratikKumarSingh2503/News-Api-Website">PulseNews</b></a></td>
+      <td><b><a href="https://github.com/PratikKumarSingh2503/News-Api-Website">PulseNews (News Api)</b></a></td>
       <td>A dynamic news website that leverages APIs to provide real-time updates and comprehensive coverage of current events, keeping users informed with the latest news.</td>
-      <td><a href="https://news-api-website-rose.vercel.app/" target="_blank">🔗 Live</a></td>
+      <td><a href="https://news-api-website-rose.vercel.app/" target="_blank">🌐</a></td>
     </tr>
   </tbody>
 </table>
@@ -163,17 +160,17 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 
 <!--Trophies Section-->   
- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs & Badges📊</h2>
+ <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs📊</h2>
  <p align="center">
   <a href="http://www.github.com/PratikKumarSingh2503">
     <img src="https://github-profile-trophy.vercel.app/?username=PratikKumarSingh2503&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   </a> 
 
-  <div style="text-align: center;">
+<!--  <div style="text-align: center;">
 <img src="https://github.com/user-attachments/assets/a4067159-4e7a-4605-840c-50fced081d5f" alt="Database Programming with SQL" style="width: 150px; height: 150px;" />
 <img src="https://github.com/user-attachments/assets/fe053515-7c34-472a-bf01-1b278ca69925" alt="Java Explorer" style="width: 350px; height: 150px;" />
   </div>
-</p>
+</p> -->
 <br /> 
 
 <!--Github stats Table--> 
@@ -181,16 +178,15 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <p align="center">
   <a href="http://www.github.com/PratikKumarSingh2503">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikKumarSingh2503&theme=github_dark" alt="GitHub Summary Card" width="800"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikKumarSingh2503&theme=github_dark" alt="GitHub Summary Card"/>
   </a>
 </p>
-
 <p align="center">
   <a href="http://www.github.com/PratikKumarSingh2503">
-    <img src="https://github-readme-stats.vercel.app/api?username=PratikKumarSingh2503&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=PratikKumarSingh2503&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" alt="GitHub Stats"/>
   </a>
   <a href="http://www.github.com/PratikKumarSingh2503">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikKumarSingh2503&langs_count=8&layout=compact&title_color=3382ed&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top Languages" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikKumarSingh2503&langs_count=8&layout=compact&title_color=3382ed&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top Languages"/>
   </a>
 </p>
 
